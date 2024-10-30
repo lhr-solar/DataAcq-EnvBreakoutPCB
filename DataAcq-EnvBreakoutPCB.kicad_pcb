@@ -1707,13 +1707,13 @@
 		(descr "FS3000-1005-6")
 		(tags "Undefined or Miscellaneous")
 		(property "Reference" "U1"
-			(at 0 0 0)
+			(at 0 5.25 0)
 			(layer "F.SilkS")
 			(uuid "95480f9d-8f2a-4b76-b8eb-cb1c672167e8")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.153)
 				)
 			)
 		)
