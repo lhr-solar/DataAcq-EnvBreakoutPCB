@@ -3131,8 +3131,8 @@
 		(uuid 176416a9-4cf0-4444-a5ec-f4ef9619fde9)
 	)
 	(rectangle
-		(start 195.58 100.33)
-		(end 217.17 119.38)
+		(start 189.23 91.44)
+		(end 210.82 110.49)
 		(stroke
 			(width 0)
 			(type default)
@@ -3204,7 +3204,7 @@
 	)
 	(text_box "Mounting Holes"
 		(exclude_from_sim no)
-		(at 195.58 115.57 0)
+		(at 189.23 106.68 0)
 		(size 21.59 3.81)
 		(stroke
 			(width 0)
@@ -3953,7 +3953,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 199.39 104.14 0)
+		(at 193.04 95.25 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -3962,7 +3962,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b5f50ea-0727-4b0c-b217-591c0cc7780c")
 		(property "Reference" "H1"
-			(at 201.93 102.8699 0)
+			(at 195.58 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3971,7 +3971,7 @@
 			)
 		)
 		(property "Value" "M3"
-			(at 201.93 105.4099 0)
+			(at 195.58 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3980,7 +3980,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3mm"
-			(at 199.39 104.14 0)
+			(at 193.04 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3989,7 +3989,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 199.39 104.14 0)
+			(at 193.04 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3998,7 +3998,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 199.39 104.14 0)
+			(at 193.04 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4818,7 +4818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "UTSVT_Connectors:Molex_MicroFit3.0_1x4xP3.00mm_PolarizingPeg_Vertical"
+		(property "Footprint" "Connector_Molex:Molex_Nano-Fit_105309-xx04_1x04_P2.50mm_Vertical"
 			(at 105.41 100.33 0)
 			(effects
 				(font
@@ -5045,7 +5045,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "UTSVT_Connectors:Molex_MicroFit3.0_1x4xP3.00mm_PolarizingPeg_Vertical"
+		(property "Footprint" "Connector_Molex:Molex_Nano-Fit_105309-xx04_1x04_P2.50mm_Vertical"
 			(at 162.56 100.33 0)
 			(effects
 				(font
@@ -5393,7 +5393,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "UTSVT_Connectors:Molex_MicroFit3.0_1x3xP3.00mm_PolarizingPeg_Vertical"
+		(property "Footprint" "Connector_Molex:Molex_Nano-Fit_105309-xx03_1x03_P2.50mm_Vertical"
 			(at 133.35 100.33 0)
 			(effects
 				(font
@@ -6470,7 +6470,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 199.39 111.76 0)
+		(at 193.04 102.87 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -6479,7 +6479,7 @@
 		(fields_autoplaced yes)
 		(uuid "ee556a40-1383-4234-a310-4ffa24756e87")
 		(property "Reference" "H2"
-			(at 201.93 110.4899 0)
+			(at 195.58 101.5999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6488,7 +6488,7 @@
 			)
 		)
 		(property "Value" "M3"
-			(at 201.93 113.0299 0)
+			(at 195.58 104.1399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6497,7 +6497,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3mm"
-			(at 199.39 111.76 0)
+			(at 193.04 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6506,7 +6506,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 199.39 111.76 0)
+			(at 193.04 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6515,7 +6515,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 199.39 111.76 0)
+			(at 193.04 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
