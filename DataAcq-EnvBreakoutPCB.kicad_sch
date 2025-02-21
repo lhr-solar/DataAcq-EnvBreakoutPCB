@@ -3242,6 +3242,17 @@
 		)
 		(uuid "f7ff2168-9f13-4abb-9bec-f5317a441920")
 	)
+	(text "TODO:\n- make this sch look better it looks highkey shit rn\n- add ESD protection\n- add RPP?\n- add pressure sensor\n- switch to using only i2c1\n- add i2c pullups on this board\n- remove analog temp sensor\n- change to smaller nanofit (SAMPLE THIS)"
+		(exclude_from_sim no)
+		(at 16.256 25.654 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "995b6557-7db9-44b7-bf96-715a68b5e966")
+	)
 	(label "I2C2_SCL"
 		(at 124.46 127 180)
 		(fields_autoplaced yes)
