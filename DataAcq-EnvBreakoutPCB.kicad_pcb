@@ -1239,7 +1239,7 @@
 			(pintype "passive+no_connect")
 			(uuid "18363e18-68b3-4e32-a7b4-5608f9f45317")
 		)
-		(model "C:\\Users\\Ravi\\Git\\LHR\\DataAcq-EnvironmentBoard\\Custom-KiCadLibraries\\SamacSys_Parts.3dshapes\\FS3000-1005.stp"
+		(model "${KIPRJMOD}/Custom-KiCadLibraries/SamacSys_Parts.3dshapes/FS3000-1005.stp"
 			(offset
 				(xyz 0 0 1.99999997)
 			)
@@ -6027,7 +6027,7 @@
 		(uuid "04763676-d2f0-42d9-ad8f-a48eeb65fff7")
 		(at 115 46.8 180)
 		(property "Reference" "LOGO3"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "402fa9df-a89e-46d8-99bd-3e870902dfe1")
 			(effects
@@ -6039,7 +6039,7 @@
 			)
 		)
 		(property "Value" "UTSVT Logo"
-			(at 0.75 0 360)
+			(at 0.75 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "5bbcf1c0-d359-4668-b332-d8533b07b461")
@@ -6052,7 +6052,7 @@
 			)
 		)
 		(property "Footprint" "images:utsvt_small"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6cfbb7a0-b1e1-46c8-86df-c02a6d4aa1ec")
@@ -6065,7 +6065,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a0d458d5-4c74-43ed-ac02-ebd3aca54dba")
@@ -6078,7 +6078,7 @@
 			)
 		)
 		(property "Description" "Graph footprint placeholder"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0ef0a084-459c-4fe3-ba32-48e30649758f")
@@ -6966,7 +6966,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 0 -1.68 360)
+			(at 0 -1.68 0)
 			(layer "B.Fab")
 			(uuid "64d9dc88-f24b-4585-89f1-015fee518d89")
 			(effects
@@ -7139,7 +7139,7 @@
 			(uuid "553d9dec-fdd1-415f-be4e-9ec669cf4cb6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "1e76fade-260e-42fc-9215-108c70d99699")
 			(effects
@@ -9374,7 +9374,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C7"
-			(at -2.5 0.0425 360)
+			(at -2.5 0.0425 0)
 			(layer "B.SilkS")
 			(uuid "633d53d0-7666-4535-b476-e5c1980348d0")
 			(effects
