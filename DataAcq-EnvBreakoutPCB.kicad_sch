@@ -3298,7 +3298,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 105.1052 46.99 0)
 			(effects
 				(font
@@ -3317,6 +3317,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 104.14 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Inventory" ""
+			(at 104.14 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C104M5RACTU"
 			(at 104.14 43.18 0)
 			(effects
 				(font
@@ -3469,6 +3487,15 @@
 				(hide yes)
 			)
 		)
+		(property "Inventory" ""
+			(at 152.4 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2db324a0-d97a-4a49-b695-26015520980e")
 		)
@@ -3528,7 +3555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SON45P80X130X43-6N"
+		(property "Footprint" "PESD3V3L4BHCYL:SON45P80X130X43-6N"
 			(at 250.19 136.83 0)
 			(effects
 				(font
@@ -3624,6 +3651,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Inventory" ""
+			(at 226.06 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "PESD3V3L4BHCYL"
+			(at 226.06 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -3841,6 +3886,15 @@
 				(hide yes)
 			)
 		)
+		(property "Inventory" ""
+			(at 190.5 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/6198b84c-4d0e-478a-a0bd-8dbb8fab05eb"
@@ -3878,7 +3932,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1053091104`:MOLEX_1053091104"
 			(at 81.28 82.55 0)
 			(effects
 				(font
@@ -3906,6 +3960,15 @@
 			)
 		)
 		(property "P/N" "1053091104"
+			(at 81.28 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Inventory" ""
 			(at 81.28 82.55 0)
 			(effects
 				(font
@@ -4054,7 +4117,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N" ""
+		(property "P/N" "RK73B2ATTE681J "
 			(at 100.33 82.55 0)
 			(effects
 				(font
@@ -4082,6 +4145,15 @@
 			)
 		)
 		(property "p/n" ""
+			(at 100.33 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Inventory" ""
 			(at 100.33 82.55 0)
 			(effects
 				(font
@@ -4354,6 +4426,15 @@
 				(hide yes)
 			)
 		)
+		(property "Inventory" ""
+			(at 100.33 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "50435ca1-fd83-4cfc-ad4e-6453d7db3136")
 		)
@@ -4482,6 +4563,15 @@
 				(hide yes)
 			)
 		)
+		(property "Inventory" ""
+			(at 34.29 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "121cf9cf-f33a-4e8a-814a-23e176d66a8a")
 		)
@@ -4555,7 +4645,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 50.4952 91.44 0)
 			(effects
 				(font
@@ -4574,6 +4664,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 49.53 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Inventory" ""
+			(at 49.53 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C104M5RACTU"
 			(at 49.53 87.63 0)
 			(effects
 				(font
@@ -4822,7 +4930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 173.6852 44.45 0)
 			(effects
 				(font
@@ -4841,6 +4949,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 172.72 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Inventory" ""
+			(at 172.72 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C104M5RACTU"
 			(at 172.72 40.64 0)
 			(effects
 				(font
@@ -5249,6 +5375,15 @@
 				(hide yes)
 			)
 		)
+		(property "Inventory" ""
+			(at 166.37 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "DataAcq-EnvBreakoutPCB"
 				(path "/6198b84c-4d0e-478a-a0bd-8dbb8fab05eb"
@@ -5286,7 +5421,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 185.1152 44.45 0)
 			(effects
 				(font
@@ -5305,6 +5440,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 184.15 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Inventory" ""
+			(at 184.15 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "TMK212BBJ106MGHT"
 			(at 184.15 40.64 0)
 			(effects
 				(font
@@ -5384,6 +5537,15 @@
 			)
 		)
 		(property "P/N" ""
+			(at 214.63 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Inventory" ""
 			(at 214.63 78.74 0)
 			(effects
 				(font
@@ -5564,7 +5726,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 93.6752 46.99 0)
 			(effects
 				(font
@@ -5583,6 +5745,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 92.71 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Inventory" ""
+			(at 92.71 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C104M5RACTU"
 			(at 92.71 43.18 0)
 			(effects
 				(font
@@ -5898,7 +6078,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 116.5352 46.99 0)
 			(effects
 				(font
@@ -5917,6 +6097,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 115.57 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Inventory" ""
+			(at 115.57 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C105K5PACTU"
 			(at 115.57 43.18 0)
 			(effects
 				(font
@@ -6071,6 +6269,15 @@
 				(hide yes)
 			)
 		)
+		(property "Inventory" ""
+			(at 38.1 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "859652f6-176d-453d-825c-269e736ec9ee")
 		)
@@ -6186,7 +6393,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 82.2452 46.99 0)
 			(effects
 				(font
@@ -6205,6 +6412,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 81.28 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Inventory" ""
+			(at 81.28 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C104M5RACTU"
 			(at 81.28 43.18 0)
 			(effects
 				(font
@@ -6423,6 +6648,15 @@
 				(hide yes)
 			)
 		)
+		(property "Inventory" ""
+			(at 226.06 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f1635a98-4d96-4576-9d46-cd5eb80c2a32")
 		)
@@ -6463,7 +6697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 196.5452 44.45 0)
 			(effects
 				(font
@@ -6482,6 +6716,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 195.58 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Inventory" ""
+			(at 195.58 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C104M5RACTU"
 			(at 195.58 40.64 0)
 			(effects
 				(font
@@ -6626,6 +6878,15 @@
 				(hide yes)
 			)
 		)
+		(property "Inventory" ""
+			(at 190.5 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "DataAcq-EnvBreakoutPCB"
 				(path "/6198b84c-4d0e-478a-a0bd-8dbb8fab05eb"
@@ -6748,6 +7009,15 @@
 			)
 		)
 		(property "Description" "Graph footprint placeholder"
+			(at 166.37 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Inventory" ""
 			(at 166.37 82.55 0)
 			(effects
 				(font
