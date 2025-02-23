@@ -2865,10 +2865,10 @@
 		)
 		(uuid "54060556-3b10-43d7-9124-121e87e2bd3e")
 	)
-	(text_box "UPDATE BOARD NOTES"
+	(text_box "This board provides an I2C interface for airflow, relative humidity, temperature, and pressure sensors to measure effectiveness of the cooling system (did the battery explode?). It interfaces with a PSOM (or any MCU) over a 4-pin nanofit connector. Wire harness must be as short as possible to minimize I2C capacitance. Sensors must be covered before conformal coating for hazardous environments (intake/exhaust ducts may be exposed to water/dust).\n\nMake sure to order with untented vias so its easy to probe QFN packages"
 		(exclude_from_sim no)
 		(at 114.3 68.58 0)
-		(size 43.18 29.21)
+		(size 43.18 31.75)
 		(stroke
 			(width 0)
 			(type default)
@@ -3018,17 +3018,6 @@
 			(justify left)
 		)
 		(uuid "532bcdd6-92cf-4ebe-9137-8763020ba505")
-	)
-	(text "TODO:\n- add i2c pullups on this board??????? IDK IF NEEDED (wire distance....)\n- untented vias for QFN packages to testpoints\n- ADD TEST POINTS"
-		(exclude_from_sim no)
-		(at 18.288 126.238 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "995b6557-7db9-44b7-bf96-715a68b5e966")
 	)
 	(text "0x44 I2C Addr."
 		(exclude_from_sim no)
