@@ -3029,6 +3029,16 @@
 		)
 		(uuid "bd90b15c-93b1-4067-a252-f9a262e9a59c")
 	)
+	(text "todo: maybe pullups? reference sensor ds.."
+		(exclude_from_sim no)
+		(at 103.378 22.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e482aa70-bee4-4efd-a668-6bff8078503b")
+	)
 	(text "0x28 I2C Addr."
 		(exclude_from_sim no)
 		(at 22.606 64.008 0)
